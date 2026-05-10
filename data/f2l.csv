@@ -1,0 +1,42 @@
+section,top_face,front_face,right_face,algorithm
+1,xbxxyxxxr,xxbxbxxbx,wxxxrxxrx,R U R'
+1,xxxryxxxb,xxwxbxxbx,rxxxrxxrx,F' U' F
+1,xxxxybxxb,xxwxbxxbx,rrxxrxxrx,U R U' R'
+1,xxxxyxxrr,xbbxbxxbx,wxxxrxxrx,U' F' U F
+2,xxxxybxxr,xxbxbxxbx,wrxxrxxrx,U' R U' R' U R U R'
+2,xxxxyxxrb,xbwxbxxbx,rxxxrxxrx,U F' U F U' F' U' F
+2,xxxbyxxxr,xxbxbxxbx,wxxxrxxrx,U' R U R' U R U R'
+2,xrxxyxxxb,xxwxbxxbx,rxxxrxxrx,U F' U' F U' F' U' F
+2,xxxxyxxbr,xrbxbxxbx,wxxxrxxrx,d R' U2 R d' R U R'
+2,xxxxyrxxb,xxwxbxxbx,rbxxrxxrx,U' R U2 R' d R' U' R
+2,xxxxyrxxr,xxbxbxxbx,wbxxrxxrx,R U' R' U d R' U' R
+2,xxxxyxxbb,xrwxbxxbx,rxxxrxxrx,F' U F U' d' F U F'
+2,xrxxyxxxr,xxbxbxxbx,wxxxrxxrx,U F' U2 F U F' U2 F
+2,xxxbyxxxb,xxwxbxxbx,rxxxrxxrx,U' R U2 R' U' R U2 R'
+2,xxxryxxxr,xxbxbxxbx,wxxxrxxrx,U F' U' F U F' U2 F
+2,xbxxyxxxb,xxwxbxxbx,rxxxrxxrx,U' R U R' U' R U2 R'
+3,xxxxybxxw,xxrxbxxbx,brxxrxxrx,R U2 R' U' R U R'
+3,xxxxyxxrw,xbrxbxxbx,bxxxrxxrx,F' U2 F U F' U' F
+3,xbxxyxxxw,xxrxbxxbx,bxxxrxxrx,U R U2 R' U R U' R'
+3,xxxryxxxw,xxrxbxxbx,bxxxrxxrx,U' F' U2 F U' F' U F
+3,xxxbyxxxw,xxrxbxxbx,bxxxrxxrx,U2 R U R' U R U' R'
+3,xrxxyxxxw,xxrxbxxbx,bxxxrxxrx,U2 F' U' F U' F' U F
+3,xxxxyxxbw,xrrxbxxbx,bxxxrxxrx,R U R' U' U' R U R' U' R U R'
+3,xxxxyrxxw,xxrxbxxbx,bbxxrxxrx,y' R' U' R U U R' U' R U R' U' R
+4,xxxxyxxxr,xxbxbbxbx,wxxrrxxrx,U F' U F U F' U2 F
+4,xxxxyxxxb,xxwxbbxbx,rxxrrxxrx,U' R U' R' U' R U2 R'
+4,xxxxyxxxr,xxbxbrxbx,wxxbrxxrx,U F' U' F d' F U F'
+4,xxxxyxxxb,xxwxbrxbx,rxxbrxxrx,U' R U R' d R' U' R
+4,xxxxyxxxw,xxrxbrxbx,bxxbrxxrx,R U' R' d R' U R
+4,xxxxyxxxw,xxrxbbxbx,bxxrrxxrx,R U R' U' R U R' U' R U R'
+5,xxxxyxxrx,xbxxbxxbb,xxxxrxrrx,U R U' R' U' F' U F
+5,xxxxybxxx,xxxxbxxbb,xrxxrxrrx,U' F' U F U R U' R'
+5,xxxxyxxrx,xbxxbxxbr,xxxxrxwrx,F' U F U' F' U F
+5,xxxxybxxx,xxxxbxxbw,xrxxrxbrx,R U' R' U R U' R'
+5,xxxxybxxx,xxxxbxxbr,xrxxrxwrx,R U R' U' R U R'
+5,xxxxyxxrx,xbxxbxxbw,xxxxrxbrx,F' U' F U F' U' F
+6,xxxxyxxxx,xxxxbbxbr,xxxrrxwrx,R U' R' U R U2 R' U R U' R'
+6,xxxxyxxxx,xxxxbbxbw,xxxrrxbrx,R U' R' U' R U R' U' R U2 R'
+6,xxxxyxxxx,xxxxbrxbr,xxxbrxwrx,R U R' U' R U' R' U d R' U' R
+6,xxxxyxxxx,xxxxbrxbw,xxxbrxbrx,R U' R' d R' U' R U' R' U' R
+6,xxxxyxxxx,xxxxbrxbb,xxxbrxrrx,R U' R' d R' U2 R U R' U2 R
